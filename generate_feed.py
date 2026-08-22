@@ -128,8 +128,8 @@ def read_episodes():
         reader = csv.DictReader(csv_file)
 
         for row_number, row in enumerate(reader, start=2):
-            episode_id = row.get("id", "").strip()
-            title = row.get("title", "").strip()
+            episode_id = (row.get("id") or "").strip()
+            title = (row.get("title") or "").strip()
 
             if not episode_id or not title:
                 raise ValueError(
