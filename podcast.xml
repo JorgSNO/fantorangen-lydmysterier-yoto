@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fantorangen Test</title>
+    <link>https://github.com</link>
+    <description>Test Feed</description>
+
+    <item>
+      <title>Test Episode</title>
+      <enclosure
+        url="https://traffic.libsyn.com/secure/samplepodcast/sample.mp3"
+        type="audio/mpeg"
+        length="1"/>
+    </item>
+
+  </channel>
+</rss>
