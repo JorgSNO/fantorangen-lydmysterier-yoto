@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Fantorangen Test</title>
-    <link>https://github.com</link>
-    <description>Test Feed</description>
+    <title>Fantorangens lydmysterier</title>
+
+    <link>https://jorgsno.github.io/fantorangen-lydmysterier-yoto/</link>
+
+    <description>
+      Fantorangen og Pivi jakter på mystiske lyder.
+    </description>
+
+    <language>nb-NO</language>
 
     <item>
-      <title>Test Episode</title>
-      <enclosure
-        url="https://traffic.libsyn.com/secure/samplepodcast/sample.mp3"
-        type="audio/mpeg"
-        length="1"/>
-    </item>
+      <title>Pipelyden</title>
 
+      <description>
+        Hva er det som piper akkurat når Pivi skal si noe viktig?
+      </description>
+
+      <guid isPermaLink="false">
+        70c74dec-f9b7-43a6-874d-ecf9b723a623
+      </guid>
+
+      <pubDate>Thu, 19 Jun 2025 10:00:00 GMT</pubDate>
+
+      <enclosure
+        url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/70c74dec-f9b7-43a6-874d-ecf9b723a623_1_ID192MP3.mp3"
+        length="3565158"
+        type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
