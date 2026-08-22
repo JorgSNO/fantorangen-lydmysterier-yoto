@@ -1,0 +1,43 @@
+name: Update RSS
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create RSS
+        run: |
+          cat > podcast.xml << 'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <rss version="2.0">
+            <channel>
+              <title>Fantorangen Test</title>
+              <link>https://github.com</link>
+              <description>Test Feed</description>
+
+              <item>
+                <title>Test Episode</title>
+                <enclosure
+                  url="https://traffic.libsyn.com/secure/samplepodcast/sample.mp3"
+                  type="audio/mpeg"
+                  length="1"/>
+              </item>
+
+            </channel>
+          </rss>
+          EOF
+
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add podcast.xml
+          git commit -m "Add feed" || true
+          git push
