@@ -1,34 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Fantorangens lydmysterier</title>
+<channel>
+<title>Fantorangens lydmysterier</title>
+<link>https://jorgsno.github.io/fantorangen-lydmysterier-yoto/</link>
+<description>Fantorangen på Yoto</description>
+<language>nb-NO</language>
 
-    <link>https://jorgsno.github.io/fantorangen-lydmysterier-yoto/</link>
+<item>
+<title>Pipelyden</title>
+<guid>70c74dec-f9b7-43a6-874d-ecf9b723a623</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/70c74dec-f9b7-43a6-874d-ecf9b723a623_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
 
-    <description>
-      Fantorangen og Pivi jakter på mystiske lyder.
-    </description>
+<item>
+<title>Flyvesykkelen</title>
+<guid>33263c44-ccce-4f03-a63c-44ccce6f0399</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/33263c44-ccce-4f03-a63c-44ccce6f0399_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
 
-    <language>nb-NO</language>
+<item>
+<title>Fantorangen savner mamma</title>
+<guid>06890e96-15ef-4205-890e-9615efa205ae</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/06890e96-15ef-4205-890e-9615efa205ae_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
 
-    <item>
-      <title>Pipelyden</title>
+<item>
+<title>Hvalen</title>
+<guid>94e6c6da-2309-42e9-a6c6-da2309c2e9b2</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/94e6c6da-2309-42e9-a6c6-da2309c2e9b2_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
 
-      <description>
-        Hva er det som piper akkurat når Pivi skal si noe viktig?
-      </description>
+<item>
+<title>Kjempegresshoppen</title>
+<guid>b90d1e86-7030-4371-8d1e-8670304371ec</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/b90d1e86-7030-4371-8d1e-8670304371ec_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
 
-      <guid isPermaLink="false">
-        70c74dec-f9b7-43a6-874d-ecf9b723a623
-      </guid>
+<item>
+<title>Blåseuhyret</title>
+<guid>04434eda-d8f2-4e02-834e-dad8f23e021c</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/04434eda-d8f2-4e02-834e-dad8f23e021c_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
 
-      <pubDate>Thu, 19 Jun 2025 10:00:00 GMT</pubDate>
+<item>
+<title>Nisselatter</title>
+<guid>f58ee24b-d1a2-453e-8ee2-4bd1a2053e6c</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/f58ee24b-d1a2-453e-8ee2-4bd1a2053e6c_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
 
-      <enclosure
-        url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/70c74dec-f9b7-43a6-874d-ecf9b723a623_1_ID192MP3.mp3"
-        length="3565158"
-        type="audio/mpeg" />
-    </item>
-  </channel>
+<item>
+<title>Halloween</title>
+<guid>d34e0c09-eeb8-46d4-8e0c-09eeb866d422</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/d34e0c09-eeb8-46d4-8e0c-09eeb866d422_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Gjett lyden i Maurtua</title>
+<guid>49918313-88d9-48b8-9183-1388d998b806</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/49918313-88d9-48b8-9183-1388d998b806_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Tyggegummiboble på månen</title>
+<guid>3e5dae67-1e85-4a39-9dae-671e853a3953</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/3e5dae67-1e85-4a39-9dae-671e853a3953_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Skogen må reddes</title>
+<guid>c5e14ad5-6268-4bf2-a14a-d56268fbf224</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/c5e14ad5-6268-4bf2-a14a-d56268fbf224_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Sinnaprompen</title>
+<guid>14647583-8916-43f3-a475-83891673f34e</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/14647583-8916-43f3-a475-83891673f34e_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Dragemusikk</title>
+<guid>4ef5d3a4-0988-434c-b5d3-a40988134cc6</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/4ef5d3a4-0988-434c-b5d3-a40988134cc6_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Huleknusemonsteret</title>
+<guid>cab4b811-b85e-4e8a-b4b8-11b85e4e8a72</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/cab4b811-b85e-4e8a-b4b8-11b85e4e8a72_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Ekko</title>
+<guid>7cd75f26-d853-4bb5-975f-26d853dbb5df</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/7cd75f26-d853-4bb5-975f-26d853dbb5df_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Telttur</title>
+<guid>5c7aa24d-9ba3-4e75-baa2-4d9ba3ce751f</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/5c7aa24d-9ba3-4e75-baa2-4d9ba3ce751f_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Modig</title>
+<guid>499d84c3-d59d-446b-9d84-c3d59d646bce</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/499d84c3-d59d-446b-9d84-c3d59d646bce_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Da lydene blåste bort</title>
+<guid>e36ac7b9-292e-4d0f-aac7-b9292e8d0fa5</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/e36ac7b9-292e-4d0f-aac7-b9292e8d0fa5_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+<item>
+<title>Pipelydene</title>
+<guid>343e6bf9-5b12-46d4-be6b-f95b1236d475</guid>
+<enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/343e6bf9-5b12-46d4-be6b-f95b1236d475_1_ID192MP3.mp3" length="1" type="audio/mpeg"/>
+</item>
+
+</channel>
 </rss>
-
