@@ -1,51 +1,42 @@
-def read_episodes():
-    episodes = []
+import csv
 
-    with EPISODES_FILE.open(
-        "r",
-        encoding="utf-8-sig",
-        newline="",
-    ) as csv_file:
-        reader = csv.reader(csv_file)
+with open("episodes.csv", encoding="utf-8") as f:
+    rows = list(csv.DictReader(f))
 
-        header = next(reader, None)
+rss = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Fantorangens lydmysterier</title>
+<link>https://jorgsno.github.io/fantorangen-lydmysterier-yoto/</link>
+<description>Fantorangen på Yoto</description>
+<language>nb-NO</language>
+"""
 
-        if header != ["id", "title"]:
-            raise ValueError(
-                f"Expected CSV header ['id', 'title'], found {header}"
-            )
+for row in rows:
+    episode_id = row["id"]
+    title = row["title"]
 
-        for row_number, row in enumerate(reader, start=2):
-            if not row or all(not value.strip() for value in row):
-                continue
+    mp3 = (
+        "https://nrk-pod-pd.telenorcdn.net/"
+        "podkast/podcastpublisher_prod/"
+        "fantorangens_lydmysterier/"
+        f"{episode_id}_1_ID192MP3.mp3"
+    )
 
-            if len(row) != 2:
-                raise ValueError(
-                    f"CSV row {row_number} has {len(row)} columns "
-                    f"instead of 2. Content: {row!r}"
-                )
+    rss += f"""
+<item>
+<title>{title}</title>
+<guid>{episode_id}</guid>
+<enclosure url="{mp3}" length="1" type="audio/mpeg"/>
+</item>
+"""
 
-            episode_id = row[0].strip()
-            title = row[1].strip()
+rss += """
+</channel>
+</rss>
+"""
 
-            if not episode_id:
-                raise ValueError(
-                    f"Missing episode ID on CSV row {row_number}"
-                )
+with open("podcast.xml", "w", encoding="utf-8") as f:
+    f.write(rss)
 
-            if not title:
-                raise ValueError(
-                    f"Missing title on CSV row {row_number}"
-                )
-
-            episodes.append(
-                {
-                    "id": episode_id,
-                    "title": title,
-                }
-            )
-
-    if not episodes:
-        raise ValueError("episodes.csv contains no episodes")
-
-    return episodes
+print(f"Generated {len(rows)} episodes")
