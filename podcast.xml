@@ -5,139 +5,139 @@
     <link>https://jorgsno.github.io/fantorangen-lydmysterier-yoto/</link>
     <description>Fantorangen og Pivi jakter på mystiske lyder.</description>
     <language>nb-NO</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:39:01 +0000</lastBuildDate>
     {html.escape(WEBSITE_URL)}podcast.xml
     <item>
       <title>Pipelyden</title>
       <description>Episode av Fantorangens lydmysterier: Pipelyden</description>
       <guid isPermaLink="false">f195c56a43661d725752bb1873b7f782cd3ef5ce43edb797d4d38d62ba1f3b75</guid>
-      <pubDate>Mon, 31 Aug 2026 09:44:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:39:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/70c74dec-f9b7-43a6-874d-ecf9b723a623_1_ID192MP3.mp3" length="18046700" type="audio/mpeg" />
     </item>
     <item>
       <title>Flyvesykkelen</title>
       <description>Episode av Fantorangens lydmysterier: Flyvesykkelen</description>
       <guid isPermaLink="false">919465c0e571332f8bf4fd5cfe21e1daaaabf3068163ffd41b1b023f6299b502</guid>
-      <pubDate>Mon, 31 Aug 2026 09:43:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:38:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/33263c44-ccce-4f03-a63c-44ccce6f0399_1_ID192MP3.mp3" length="17752940" type="audio/mpeg" />
     </item>
     <item>
       <title>Hvalen</title>
       <description>Episode av Fantorangens lydmysterier: Hvalen</description>
       <guid isPermaLink="false">d14f21b3a83739456c299fd8c25ce6a123d3b34078ad887f7a1aa09838c13343</guid>
-      <pubDate>Mon, 31 Aug 2026 09:41:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:36:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/50e31735-de29-40cb-ac2a-49b9aa6b3d39_0_ID192MP3.mp3" length="19565613" type="audio/mpeg" />
     </item>
     <item>
       <title>Kjempegresshoppen</title>
       <description>Episode av Fantorangens lydmysterier: Kjempegresshoppen</description>
       <guid isPermaLink="false">8e498e440570153380be06634b13b181b2ff6eaa8f1596c06d737aa97a6edf0b</guid>
-      <pubDate>Mon, 31 Aug 2026 09:40:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:35:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/8b3e13ce-e0bd-4f29-9d19-561ee28b8268_0_ID192MP3.mp3" length="18332397" type="audio/mpeg" />
     </item>
     <item>
       <title>Blåseuhyret</title>
       <description>Episode av Fantorangens lydmysterier: Blåseuhyret</description>
       <guid isPermaLink="false">cc0c852a148dd67b8f281d5dfe25d6e79b07b52ac9b6d8f791a25e4bf027ab68</guid>
-      <pubDate>Mon, 31 Aug 2026 09:39:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:34:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/40a163d4-fafa-40cd-96be-5f421e6430b8_0_ID192MP3.mp3" length="15705261" type="audio/mpeg" />
     </item>
     <item>
       <title>Nisselatter</title>
       <description>Episode av Fantorangens lydmysterier: Nisselatter</description>
       <guid isPermaLink="false">7b853cb14c82aa1ff6499345337518e55a4d5a719cc439158c1d7d2209c0f9bc</guid>
-      <pubDate>Mon, 31 Aug 2026 09:38:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:33:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/e95534d3-4786-45d9-a30a-b3511120c54a_0_ID192MP3.mp3" length="15798573" type="audio/mpeg" />
     </item>
     <item>
       <title>Halloween</title>
       <description>Episode av Fantorangens lydmysterier: Halloween</description>
       <guid isPermaLink="false">393f650b11952d71df6ad9417ec354eb2cc32049f6572b40c3539e0d9cde962d</guid>
-      <pubDate>Mon, 31 Aug 2026 09:37:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:32:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/da9f6bcd-e037-4d00-a71f-c5b61b18c3f1_0_ID192MP3.mp3" length="17258733" type="audio/mpeg" />
     </item>
     <item>
       <title>Gjett lyden i Maurtua</title>
       <description>Episode av Fantorangens lydmysterier: Gjett lyden i Maurtua</description>
       <guid isPermaLink="false">aab84fb255803cd8b47a6441fd72ed264f65f6073c90ac39f58aa84c748ab2ad</guid>
-      <pubDate>Mon, 31 Aug 2026 09:36:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:31:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/04d150be-d68a-4bf2-9e6b-662b62accd25_0_ID192MP3.mp3" length="16890093" type="audio/mpeg" />
     </item>
     <item>
       <title>Tyggegummiboble på månen</title>
       <description>Episode av Fantorangens lydmysterier: Tyggegummiboble på månen</description>
       <guid isPermaLink="false">5982e8a537f7e1e9d13067cac2773b5f75236f6dc86fe19c315613b3f13c2e80</guid>
-      <pubDate>Mon, 31 Aug 2026 09:35:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:30:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/986a3fa0-fe9c-4b2c-a38e-3d651d42ecad_0_ID192MP3.mp3" length="18139437" type="audio/mpeg" />
     </item>
     <item>
       <title>Skogen må reddes</title>
       <description>Episode av Fantorangens lydmysterier: Skogen må reddes</description>
       <guid isPermaLink="false">6ed5d73060019a3fe9f7a841a59b6003fbf0c6244395fc6887d0f207a36a2cb8</guid>
-      <pubDate>Mon, 31 Aug 2026 09:34:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:29:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/7ba6daf1-83cd-4fa2-9e94-61d667516356_0_ID192MP3.mp3" length="18020205" type="audio/mpeg" />
     </item>
     <item>
       <title>Sinnaprompen</title>
       <description>Episode av Fantorangens lydmysterier: Sinnaprompen</description>
       <guid isPermaLink="false">88eb55f8dc8f7858bea8b8955ab4356038b358af7efbab9178f14b2759fe6599</guid>
-      <pubDate>Mon, 31 Aug 2026 09:33:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:28:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/56d3c377-a58d-4187-8e28-0662cafaf40c_0_ID192MP3.mp3" length="17009901" type="audio/mpeg" />
     </item>
     <item>
       <title>Dragemusikk</title>
       <description>Episode av Fantorangens lydmysterier: Dragemusikk</description>
       <guid isPermaLink="false">8b736310c689be3c9f499956b03f029e419e66e9807a5866804353d89446c6e3</guid>
-      <pubDate>Mon, 31 Aug 2026 09:32:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:27:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/cc1c364c-bdd6-438e-943a-c32a1ed4b35b_0_ID192MP3.mp3" length="14754285" type="audio/mpeg" />
     </item>
     <item>
       <title>Huleknusemonsteret</title>
       <description>Episode av Fantorangens lydmysterier: Huleknusemonsteret</description>
       <guid isPermaLink="false">15bbed332cca4fb483c27ad765129e1d7c25608615d403d65a1f7e9c04e9d530</guid>
-      <pubDate>Mon, 31 Aug 2026 09:31:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:26:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/f4e4fd41-0906-402f-91dd-d2a2365d8ed6_0_ID192MP3.mp3" length="11929005" type="audio/mpeg" />
     </item>
     <item>
       <title>Ekko</title>
       <description>Episode av Fantorangens lydmysterier: Ekko</description>
       <guid isPermaLink="false">53fab53a57aad0a79060a7fc811bce434019e580dfe7e503fe654796e74e98e1</guid>
-      <pubDate>Mon, 31 Aug 2026 09:30:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:25:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/8c557992-bb5f-44a5-aac4-77ca9beb0c2e_0_ID192MP3.mp3" length="13775661" type="audio/mpeg" />
     </item>
     <item>
       <title>Telttur</title>
       <description>Episode av Fantorangens lydmysterier: Telttur</description>
       <guid isPermaLink="false">d6f230112e3da4a8621b8cf1fb6f3755f5a16a3e103baf624ff016d4090e73df</guid>
-      <pubDate>Mon, 31 Aug 2026 09:29:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:24:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/8bbd1f6c-42cc-404a-b268-11f3dcfaba5d_0_ID192MP3.mp3" length="12965805" type="audio/mpeg" />
     </item>
     <item>
       <title>Dunk, splæsj, doff</title>
       <description>Episode av Fantorangens lydmysterier: Dunk, splæsj, doff</description>
       <guid isPermaLink="false">4289e6afc199af03d1177227758de2e78a5db07137cdb3001b2d786e648f350e</guid>
-      <pubDate>Mon, 31 Aug 2026 09:28:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:23:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/070af7ef-0867-4b50-b424-2f35a1210d3f_0_ID192MP3.mp3" length="14534253" type="audio/mpeg" />
     </item>
     <item>
       <title>Modig</title>
       <description>Episode av Fantorangens lydmysterier: Modig</description>
       <guid isPermaLink="false">5ecbc07a70a06789eb27c7877185174fcc82505600e39d28613ea98178e8b58a</guid>
-      <pubDate>Mon, 31 Aug 2026 09:27:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:22:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/8c99be7d-66a5-4ac7-a546-4c3caaf6e2a4_0_ID192MP3.mp3" length="15329133" type="audio/mpeg" />
     </item>
     <item>
       <title>Da lydene blåste bort</title>
       <description>Episode av Fantorangens lydmysterier: Da lydene blåste bort</description>
       <guid isPermaLink="false">fe895b739336cca6305ab29e3e0ce29f043304dcdfccd5a7c82700b92480b596</guid>
-      <pubDate>Mon, 31 Aug 2026 09:26:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:21:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/14f007fa-2f44-4fee-a840-6fe1d6a0eef8_0_ID192MP3.mp3" length="14212269" type="audio/mpeg" />
     </item>
     <item>
       <title>Pipelydene</title>
       <description>Episode av Fantorangens lydmysterier: Pipelydene</description>
       <guid isPermaLink="false">0541c85e6cd37e9e0f89ffa8cad600b953963b3fdbf7137eb714dacceb4a5d91</guid>
-      <pubDate>Mon, 31 Aug 2026 09:25:46 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 08:20:01 +0000</pubDate>
       <enclosure url="https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/fantorangens_lydmysterier/6ff4dd08-d9ab-4ca2-8a77-8d8a4dfadaff_0_ID192MP3.mp3" length="14158701" type="audio/mpeg" />
     </item>
   </channel>
